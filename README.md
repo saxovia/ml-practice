@@ -1,4 +1,4 @@
-# ml-practice
+# Machine Learning Practice
 Autodidactic learning using online courses
 
 

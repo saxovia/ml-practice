@@ -11,3 +11,7 @@ opening it after initial setup:
 
         conda activate base
         jupyter notebook
+
+
+
+Theoretical background from ELTE'S Introduction to Machine Learning course
